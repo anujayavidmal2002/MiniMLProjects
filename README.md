@@ -1,1 +1,1 @@
-# MiniMLProjects-Telco-Customer-ChurnDataAnalysisREADME.md
+# MiniMLProjectsREADME.md
